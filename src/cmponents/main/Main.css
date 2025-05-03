@@ -1,0 +1,103 @@
+.ikkinchi{
+    background-image: url("./d.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 619px;
+}
+.ikkinchi h1{
+   color: white;
+   text-align: center;
+}
+.ikkinchi p{
+   color: white;
+   text-align: center;
+   padding-top: 73px;
+   padding-bottom: 17px;
+}
+.ikkinchi h2{
+    color: white;
+    text-align: center;
+font-size: 24px;
+font-weight: 500;
+line-height: 38px;
+letter-spacing: 0.20000000298023224px;
+padding-top: 20px;
+}
+.btn{
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+display: flex;
+margin: 0px auto;
+background: none;
+gap: 0px;
+width:236px;
+height:68px;
+padding: 16px 0px 16px 0px;
+gap: 0px;
+border-radius: 30px;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0.10000000149011612px;
+text-align: center;
+color: white;
+padding: 16px 58px;
+}
+.btn:hover{
+    background: #FA4A0C;
+    box-shadow: 0px 10px 30px 0px #B7322733;
+}
+.btn-ota{
+    display: flex;
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 129px;
+    border-bottom: 2px solid ;
+}
+.rasm{
+    display: flex;
+    align-items: center
+}
+.con h1{
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: center;
+    padding-top: 520px;
+}
+.r4{
+    display: flex;
+}
+.text{
+    margin-top: 237px;
+}
+h3{
+    color: #FA4A0C;
+    margin-bottom: 10px;
+}
+h2{
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+h4{
+    color: #737373;
+}
+.ohirgi{
+    background-image:url("./c.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 509px;
+}
+.ohirgi h1{
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 140px;
+    font-size: 40px;
+}
+.ohirgi p{
+    color: #FFFFFF;
+    text-align: center;
+}
